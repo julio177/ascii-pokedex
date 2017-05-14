@@ -1,0 +1,33 @@
+number: 2
+name: Ivysaur
+description: ahad
+display:                          `+-`-:`.
+                      /:-/`o:///+o-            ``                
+                     `+//h/o::::/+oo:`       :ssss/-             
+                    `+--os:o::::/+oooo/. ./s:/oooso+-/o.         
+                   `+:::soo/:://+oooo+++/sooosooooosoos.         
+                   +::/:sos:://+ooooosssossooossssoosys+.        
+       `          :o+//:os+/++oooooosyyssyyssssysoooooos`        
+   `oooo+:+//: `.`oooo+++h+ooooooossssyyyssosysooooyys-.         
+  -+so+oo+ysss+.sosyssooosooooooooyysssssssyy++++++ooo ..-       
+-:-/oso+oohooos+yooooysyyyyssoosossoooosssyyoo++++oyyys+/+o`     
+oooos++++++ooooosooooohoomssshssssmdo+++////////////oyhddoos`    
+:+so+++++oo+ooooooososyssysssyysssNMmh+////::////+/+oo+sds/o+.   
+.oo++oo+++ossssssssyssssssssshsyysNNy+////+:-yss+/o+oys/////+o-  
+`:osoosoooossssssyyhysssssssssshys+///////  somNys+//+/////+oy- 
+   `/ohsssssysssssssyhhhyhssssssyy////////:  +sssos+/////////+h+ 
+      `:+o/+sssysssssyssyyhysssyso////////+:///:/++oooooo+++/+sso
+             `-+syyhysssssshhyss+///////////+o+ossooooooossossso+ 
+            -:/ossyhyyhdyhdddoss+:////////+oos+ooooooooooooooo+. 
+        `-/oooooooyyhsssyddhds/::///////+oooooooooooooooooo+o-   
+      -/ossooooyooyy+ooodddhs:::://+////+oooooooooooo++++++:     
+      /+yysoooyhsys:/ooohhdh+::::///////+ooooooooooo++osy.       
+       +ssyoos-yys///hs//+///+:::://////osyyyssssssyyysss:       
+        `-//:. -o///////////oy+:::+dyo+/ohsssssssssssssyos`      
+               .hyo//////+ossss///oyyyhsosysssssyyssssyhhh/      
+               +yyys//oossssssy////yhhhdsoysssoyssssssshhhs      
+              `hhhhs/osssyssssso///+osssooso:` -ssssydyosyy      
+              -ooo++ssssso//sysyo//yyy+ooooo    -sssssoo+/o      
+              `y++ossssoo`    .-+o++o++oooos     -sooooosos`     
+               osssss+ss+        :so+osos+so-     `/++/s//o:`    
+                  .-.--           `/+o-s--//:
